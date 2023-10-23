@@ -1,6 +1,6 @@
 #lda #topicModeling #sentimentAnalysis #VADER #gensim #socialSciences #politicalPsychology #Twitter #Russia-UkraineWar #Zelensky #Putin #leaderAppeal
 
-# Leader Appeal in Times of War: Analysis of Twitter Messages about V. Putin and V. Zelensky using Natural Language Processing Tools
+# Leader Appeal in Times of War: Analysing Tweets about Putin and Zelensky with Natural Language Processing Tools
 
 *Aurelija Tylaitė, 2022*
 
