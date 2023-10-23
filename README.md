@@ -8,7 +8,7 @@ This research project was prepared while studying for a Master's degree in Conte
 
 **Research Goals:**
 
-- Determine public perceptions conveyed in Twitter messages about V. Putin and V. Zelensky during the Russia-Ukraine war.
+- Determine public perceptions conveyed in Twitter messages about Vladimir Putin and Volodymyr Zelensky during the Russia-Ukraine war.
 
 - Utilize the leader appeal models described by David G. Winter to understand what defines the appeal of Zelensky and Putin in the eyes of their followers.
 
