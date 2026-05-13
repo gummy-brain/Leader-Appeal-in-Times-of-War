@@ -11,6 +11,8 @@
 
 When Russia invaded Ukraine on 24 February 2022, global Twitter users rapidly polarised around the two opposing leaders — Volodymyr Zelensky and Vladimir Putin. This project uses Natural Language Processing to analyse **53.87 million war-related tweets** and uncover what drives public support for each leader, interpreted through David G. Winter's theoretical models of leader appeal.
 
+This project originated as a Master's paper written during Political Psychology course at Vilnius University (2022). Full paper available upon request.
+
 ---
 
 ## Research questions
@@ -159,7 +161,14 @@ Run notebooks in order: data prep → sentiment analysis → LDA modelling.
 
 ## References
 
-- Winter, D. G. (1987). Leader appeal, leader performance, and the motive profiles of leaders and followers. *Journal of Personality and Social Psychology, 52*(1), 196–202.
-- BwandoWando. (2022). *Ukraine Conflict Twitter Dataset*. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/4588898
-- White, S., & McAllister, I. (2008). The Putin phenomenon. *Journal of Communist Studies and Transition Politics, 24*(4), 604–628.
+- Alterman, Robert. “#Nlprimaries.” Medium. Towards Data Science, May 18, 2020. https://towardsdatascience.com/nlprimaries-1a97c61b223c.  
+- BwandoWando. “🇺🇦 Ukraine Conflict Twitter Dataset.” Kaggle, November 26, 2022. https://doi.org/10.34740/KAGGLE/DSV/4588898.  
+- Gonzñález, A., 2022. Is Volodymyr Zelensky the necessary hero or not?, Instituto Español de Estudios Estratégicos. https://policycommons.net/artifacts/3128748/is-volodymyr-zelensky-the-necessary-hero-or-not/3921944/ . CID: 20.500.12592/hz2xfm. 
+- Hermann, Margaret G., and Joe D. Hagan. “International Decision Making: Leadership Matters.” Foreign Policy, no. 110 (1998): 124. https://doi.org/10.2307/1149281.  
+- Jackson, Amanda. “Sentiment Analysis of Tweets on the Ukrainian Crisis.” Medium. Medium, March 14, 2022. https://medium.com/@amandajackson_41697/sentiment-analysis-of-tweets-on-the-ukrainian-crisis-13c09389b50e.  
+- Kapadia, Shashank. “Evaluate Topic Models: Latent Dirichlet Allocation (LDA).” Medium. Towards Data Science, December 29, 2020. https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0.  
+- Levy, Jack S. “Psychology and Foreign Policy Decision-Making.” Oxford Handbooks Online, 2013. https://doi.org/10.1093/oxfordhb/9780199760107.013.0010.  
+- White, Stephen, and Ian Mcallister. “The Putin Phenomenon.” Journal of Communist Studies and Transition Politics 24, no. 4 (2008): 604–28. https://doi.org/10.1080/13523270802510610.  
+- Winter, David G. “Leader Appeal, Leader Performance, and the Motive Profiles of Leaders and Followers: A Study of American Presidents and Elections.” Journal of Personality and Social Psychology 52, no. 1 (1987): 196–202. https://doi.org/10.1037/0022-3514.52.1.196. 
+
 
