@@ -152,6 +152,7 @@ Python · Pandas · NLTK · vaderSentiment · Gensim · pyLDAvis · Matplotlib �
 git clone https://github.com/gummy-brain/Leader-Appeal-in-Times-of-War.git
 cd Leader-Appeal-in-Times-of-War
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 jupyter notebook
 ```
 
